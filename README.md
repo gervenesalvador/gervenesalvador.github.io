@@ -36,5 +36,6 @@ Usage
 1. Access the application in your browser at http://localhost:3000.
 2. Create an account or log in if you already have one.
 3. Users can then browse listings, place bids, and manage their accounts.
+
 **Note**: Authentication and authorization are required to perform most actions.
 
